@@ -1,0 +1,5 @@
+# Example list of servers.
+# Change it to your actual server's IP list:
+192.168.1.10
+192.168.1.11
+192.168.1.12
